@@ -1,0 +1,30 @@
+h1, h2, thead {
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  color: DodgerBlue;
+}
+
+table {
+  border: 2px solid DodgerBlue;
+  width: 650px;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: Skyblue;
+}
+
+body {
+  background-color: Gainsboro;
+  font-family: courier, monospace;
+  margin: 8px;
+}
+
+td {
+  border-bottom: 1px solid DodgerBlue;
+}
+
